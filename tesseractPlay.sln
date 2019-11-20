@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tesseractPlay", "tesseractPlay\tesseractPlay.pyproj", "{2A0B8FB1-AFD0-4FA2-B50E-606CD19EB183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0B8FB1-AFD0-4FA2-B50E-606CD19EB183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0B8FB1-AFD0-4FA2-B50E-606CD19EB183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68FC182-6B35-40EC-B9FC-CE0251CFEF7C}
+	EndGlobalSection
+EndGlobal
